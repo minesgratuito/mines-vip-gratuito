@@ -1,1 +1,1 @@
-# minesgratuito
+# [minesgratuito](https://minesgratuito.github.io.)
