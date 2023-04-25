@@ -1,1 +1,1 @@
-# mines-vip-gratuito
+# minesgratuito
